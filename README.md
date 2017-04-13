@@ -1,2 +1,2 @@
-# mememaker
-showing off hosting with github pages
+# meme
+just hosting for the js homework
